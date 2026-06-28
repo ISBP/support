@@ -1,5 +1,5 @@
 ::: info END OF LIFE
-NetherGames will be closing on the 28th of June 2026. For more details, please read our [Closure Announcement](https://support.nethergames.org/closure-announcement).
+NetherGames closed on the 28th of June 2026. For more details, please read our [Closure Announcement](https://support.nethergames.org/closure-announcement).
 :::
 
 # Closure FAQ and Information
